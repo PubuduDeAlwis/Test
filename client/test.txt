@@ -1,0 +1,2 @@
+This is test.txt file contain inside client directory
+If you get this message that means PUT request is Successfull!
